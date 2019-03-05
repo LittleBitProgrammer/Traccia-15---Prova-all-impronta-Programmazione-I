@@ -1,3 +1,3 @@
 # Traccia 15 - Prova all'impronta Programmazione I #
 
-Sviluppare una function c che, data come parametro da input una stringa che rappresenta un testo in italiano, determina e restituisce come parametro di output il numero di parole che terminano in are contenute nel testo. Nel testo le parole sono separate da un unico spazio.
+Sviluppare una function C che, dati come parametri di input un array di char e il suo size, determina e restituisce come parametro di output l’array (di size 21) del numero delle occorrenze delle 21 lettere dell’alfabeto italiano (per es. il numero di occorrenze della lettera a è il numero di volte in cui la lettera a compare nel testo).
